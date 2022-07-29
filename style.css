@@ -50,10 +50,15 @@ input{
     width: 90%;
     padding: 8px;
     margin-top: 5px;
-    border-style: solid;
+    outline: none;
+    /*border-style: solid;
     border-color: bisque ;
-    border-radius: 10px;
+    border-radius: 10px;*/
+    border: none;
+    border-bottom: 2px solid bisque;
+    
 }
+
 .form{
     
     margin-left: 8rem;
